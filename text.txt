@@ -1,0 +1,9 @@
+Ball Rush
+com.BallRushCorp.BallRush
+alias: ballll
+password: ballll
+alias-password: ballll
+
+
+https://docs.google.com/document/d/13ZxZlxw2Oojb3N3fLJV-2Tcngx9HURmYKTC1qVvfvDE/edit?usp=sharing
+https://www.figma.com/design/Ru5ReMiT1MsAhsmeM23RSh/BALL-RUSH?node-id=0-1&p=f&t=5nkoImg0d0E5I1va-0
